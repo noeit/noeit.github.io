@@ -11,13 +11,10 @@ sections:
         Information Technology
       image:
         filename: hero-slides.jpg
-        # If image is upside down, rotate it in image editor before uploading
-        # Or remove this image section and use background image instead
+
       text: |
         <br>
-        
-        ## Who Are We?
-        
+                
         A national organization founded in 2021 and operating in two countries Sudan and South Sudan to connect unconnected community with internet access, digital literacy trainings, IT labs, provision of solar lanterns to the students and the aged in the remote communities, such as students, teachers, entrepreneurs, researchers and innovators.
         
         <a href="./about/" class="cta-link">Learn More →</a>
@@ -29,9 +26,9 @@ sections:
   
   - block: features
     content:
-      title: Why choose us
+      title: Why Choose Us
       items:
-        - name: Community driven initiative
+        - name: Community Driven Initiative
           description: We value community values and our projects are all community driven initiatives
           icon: users
           icon_pack: fas
@@ -39,15 +36,15 @@ sections:
           description: Specialized in networking, VSAT installation, Photovoltaic installation and electrical wiring
           icon: laptop-code
           icon_pack: fas
-        - name: Digital connectivity
+        - name: Digital Connectivity
           description: We aim to connect Nuba community with internet access, digital library, and educate Nuba community on technological gap in the region.
           icon: home
           icon_pack: fas
-        - name: Connect the unconnected with internet access
+        - name: Connect the Unconnected with Internet Access
           description: To connect the less vulnerable people of Nuba Mountains with internet access by contribution
           icon: network-wired
           icon_pack: fas
-        - name: Security, reliability and connectivity for all
+        - name: Security, Reliability and Connectivity for All
           description: All our connections, networking and installations come with assured security, reliability and quality.
           icon: shield-alt
           icon_pack: fas
