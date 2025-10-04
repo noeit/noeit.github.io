@@ -7,52 +7,28 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: About Us
+  - name: About
     url: about
     weight: 20
-  - name: About us
-    url: about
-    parent: About Us
-    weight: 21
-  - name: Our mission
-    url: mission
-    parent: About Us
-    weight: 22
-  - name: Our vision
-    url: vision
-    parent: About Us
-    weight: 23
-  - name: Our Principles
-    url: principles
-    parent: About Us
-    weight: 24
-  - name: Our promise
-    url: promise
-    parent: About Us
-    weight: 25
   - name: Project
-    url: people
+    url: internet-access
     weight: 30
-  - name: Meet the Team
-    url: people
-    parent: Project
-    weight: 31
-  - name: Internet access
+  - name: Internet Access
     url: internet-access
     parent: Project
-    weight: 32
+    weight: 31
   - name: Digital Literacy Skills Training
     url: digital-literacy
     parent: Project
-    weight: 33
-  - name: IT labs
+    weight: 32
+  - name: IT Labs
     url: it-labs
     parent: Project
-    weight: 34
-  - name: Solar lanterns
+    weight: 33
+  - name: Solar Lanterns
     url: solar-lanterns
     parent: Project
-    weight: 35
+    weight: 34
   - name: Gallery
     url: gallery
     weight: 40

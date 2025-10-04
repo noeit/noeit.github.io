@@ -12,6 +12,9 @@ superuser: true
 # Role/position
 role: Founder and Technical Project Director
 
+# Weight (for sorting - lower numbers appear first)
+weight: 1
+
 # Organizations/Affiliations
 organizations:
   - name: Nobatia Organization for Emerging Information Technology
