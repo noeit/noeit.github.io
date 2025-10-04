@@ -19,16 +19,15 @@
   display: none !important;
 }
 
-// Hide the main article content on author pages - show only the author card
-.wg-about .article-container,
-.article-header,
-.page-body {
+// ONLY hide main content on author profile pages (not all pages!)
+// Target only pages in /authors/ directory
+body[class*="authors"] .article-header,
+body[class*="authors"] .page-body {
   display: none !important;
 }
 
-// Make the author card the main focus
-.wg-about .author-card,
-.author-card {
+// Make the author card the main focus on author pages only
+body[class*="authors"] .author-card {
   max-width: 800px;
   margin: 60px auto !important;
   padding: 40px;
