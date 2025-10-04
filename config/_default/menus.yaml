@@ -4,21 +4,58 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: Home
+    url: /
     weight: 10
-  - name: News
-    url: post
+  - name: About Us
+    url: about
     weight: 20
-  - name: People
+  - name: About us
+    url: about
+    parent: About Us
+    weight: 21
+  - name: Our mission
+    url: mission
+    parent: About Us
+    weight: 22
+  - name: Our vision
+    url: vision
+    parent: About Us
+    weight: 23
+  - name: Our Principles
+    url: principles
+    parent: About Us
+    weight: 24
+  - name: Our promise
+    url: promise
+    parent: About Us
+    weight: 25
+  - name: Project
     url: people
     weight: 30
-  - name: Events
-    url: event
+  - name: Meet the Team
+    url: people
+    parent: Project
+    weight: 31
+  - name: Internet access
+    url: internet-access
+    parent: Project
+    weight: 32
+  - name: Digital Literacy Skills Training
+    url: digital-literacy
+    parent: Project
+    weight: 33
+  - name: IT labs
+    url: it-labs
+    parent: Project
+    weight: 34
+  - name: Solar lanterns
+    url: solar-lanterns
+    parent: Project
+    weight: 35
+  - name: Gallery
+    url: gallery
     weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
   - name: Contact
     url: contact
-    weight: 60
+    weight: 50
