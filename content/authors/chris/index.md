@@ -9,6 +9,9 @@ last_name: Hillis
 # Role/position
 role: Co-Founder
 
+# Weight (for sorting - lower numbers appear first)
+weight: 2
+
 # Organizations/Affiliations
 organizations:
   - name: Nobatia Organization for Emerging Information Technology
