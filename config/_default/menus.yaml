@@ -45,7 +45,7 @@ main:
     url: digital-literacy
     parent: Project
     weight: 33
-  - name: IT labs
+  - name: IT Labs
     url: it-labs
     parent: Project
     weight: 34
