@@ -17,17 +17,13 @@ organizations:
     url: ''
 
 # Short bio
-bio: Advocate for Entrepreneurship Development and Economic Empowerment for women, girls and unskilled Youth in Nuba Mountains.
+bio: An advocate for Entrepreneurship Development and Economic Empowerment, for women, girls and unskilled Youth in Nuba Mountains and other marginalized areas of Sudan. Currently Kodi serves as Finance officer at Mission Aviation Fellowship South Sudan Program 2017 to date.
 
 # Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:info@nobatia.org'
+social: []
 
 # Organizational groups
 user_groups:
   - Board of Directors
 ---
 
-An advocate for Entrepreneurship Development and Economic Empowerment, for women, girls and unskilled Youth in Nuba Mountains and other marginalized areas of Sudan. Currently Kodi serves as Finance officer at Mission Aviation Fellowship South Sudan Program 2017 to date.

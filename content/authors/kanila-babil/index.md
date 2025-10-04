@@ -17,19 +17,13 @@ organizations:
     url: ''
 
 # Short bio
-bio: Supply chain management professional with experience in purchasing, planning, scheduling and storage.
+bio: I hold a bachelor degree in economics at the Catholic University South Sudan, currently working as an intern with Catholic Relief (CRS) in the department of supply chain management under procurement and logistics. I am experienced and a dedicated professional with aspect of supply chain management including purchasing, planning, scheduling and storage.
 
 # Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:info@nobatia.org'
+social: []
 
 # Organizational groups
 user_groups:
   - Board of Directors
 ---
 
-I hold a bachelor degree in economics at the Catholic University South Sudan, currently working as an intern with Catholic Relief (CRS) in the department of supply chain management under procurement and logistics.
-
-I am experienced and a dedicated professional with aspect of supply chain management including purchasing, planning, scheduling and storage.

@@ -15,17 +15,13 @@ organizations:
     url: ''
 
 # Short bio
-bio: Director of ICT overseeing information and communications technology initiatives.
+bio: PICTURE AND DESCRIPTION COMING SOON
 
 # Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:info@nobatia.org'
+social: []
 
 # Organizational groups
 user_groups:
   - Board of Directors
 ---
 
-PICTURE AND DESCRIPTION COMING SOON
