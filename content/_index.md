@@ -11,6 +11,8 @@ sections:
         Information Technology
       image:
         filename: hero-slides.jpg
+        # If image is upside down, rotate it in image editor before uploading
+        # Or remove this image section and use background image instead
       text: |
         <br>
         
@@ -18,7 +20,12 @@ sections:
         
         A national organization founded in 2021 and operating in two countries Sudan and South Sudan to connect unconnected community with internet access, digital literacy trainings, IT labs, provision of solar lanterns to the students and the aged in the remote communities, such as students, teachers, entrepreneurs, researchers and innovators.
         
-        {{% cta cta_link="./about/" cta_text="Learn More →" %}}
+        <a href="./about/" class="cta-link">Learn More →</a>
+    design:
+      background:
+        gradient_start: '#f5f5f5'
+        gradient_end: '#e8f5e9'
+        text_color_light: false
   
   - block: features
     content:
