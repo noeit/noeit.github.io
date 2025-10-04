@@ -19,6 +19,29 @@
   display: none !important;
 }
 
+// Hide the main article content on author pages - show only the author card
+.wg-about .article-container,
+.article-header,
+.page-body {
+  display: none !important;
+}
+
+// Make the author card the main focus
+.wg-about .author-card,
+.author-card {
+  max-width: 800px;
+  margin: 60px auto !important;
+  padding: 40px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+// Hide social links in author card
+.author-card .network-icon {
+  display: none !important;
+}
+
 // Brand colors
 :root {
   --primary: #4CAF50;      // Green
