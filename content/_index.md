@@ -1,80 +1,57 @@
 ---
-# Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-01-04
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Nobatia Organization for Emerging
+        Information Technology
       image:
-        filename: welcome.jpg
+        filename: hero-slides.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        ## Who Are We?
+        
+        A national organization founded in 2021 and operating in two countries Sudan and South Sudan to connect unconnected community with internet access, digital literacy trainings, IT labs, provision of solar lanterns to the students and the aged in the remote communities, such as students, teachers, entrepreneurs, researchers and innovators.
+        
+        {{% cta cta_link="./about/" cta_text="Learn More →" %}}
   
-  - block: collection
+  - block: features
     content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+      title: Why choose us
+      items:
+        - name: Community driven initiative
+          description: We value community values and our projects are all community driven initiatives
+          icon: users
+          icon_pack: fas
+        - name: Professionalism
+          description: Specialized in networking, VSAT installation, Photovoltaic installation and electrical wiring
+          icon: laptop-code
+          icon_pack: fas
+        - name: Digital connectivity
+          description: We aim to connect Nuba community with internet access, digital library, and educate Nuba community on technological gap in the region.
+          icon: home
+          icon_pack: fas
+        - name: Connect the unconnected with internet access
+          description: To connect the less vulnerable people of Nuba Mountains with internet access by contribution
+          icon: network-wired
+          icon_pack: fas
+        - name: Security, reliability and connectivity for all
+          description: All our connections, networking and installations come with assured security, reliability and quality.
+          icon: shield-alt
+          icon_pack: fas
   
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
+      title: Support Our Mission
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        Support the project, help us make a difference in people's lives by contributing one time donation or partner with us in this project.
+        
+        {{% cta cta_link="./contact/" cta_text="Donate →" %}}
     design:
       columns: '1'
 ---
