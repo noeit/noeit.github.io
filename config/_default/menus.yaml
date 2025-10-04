@@ -10,15 +10,15 @@ main:
   - name: About Us
     url: about
     weight: 20
-  - name: About us
+  - name: About Us
     url: about
     parent: About Us
     weight: 21
-  - name: Our mission
+  - name: Our Mission
     url: mission
     parent: About Us
     weight: 22
-  - name: Our vision
+  - name: Our Vision
     url: vision
     parent: About Us
     weight: 23
@@ -26,7 +26,7 @@ main:
     url: principles
     parent: About Us
     weight: 24
-  - name: Our promise
+  - name: Our Promise
     url: promise
     parent: About Us
     weight: 25
@@ -37,7 +37,7 @@ main:
     url: people
     parent: Project
     weight: 31
-  - name: Internet access
+  - name: Internet Access
     url: internet-access
     parent: Project
     weight: 32
@@ -49,7 +49,7 @@ main:
     url: it-labs
     parent: Project
     weight: 34
-  - name: Solar lanterns
+  - name: Solar Lanterns
     url: solar-lanterns
     parent: Project
     weight: 35
