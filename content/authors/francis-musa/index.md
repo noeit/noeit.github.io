@@ -15,7 +15,7 @@ organizations:
     url: ''
 
 # Short bio
-bio: PICTURE AND DESCRIPTION COMING SOON
+bio: Francis serves as Director of Information and Communication Technology at NOEIT, overseeing the technical implementation of connectivity projects and IT infrastructure development across Sudan and South Sudan.
 
 # Social/Academic Networking
 social: []

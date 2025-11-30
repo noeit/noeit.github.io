@@ -10,24 +10,24 @@ main:
   - name: About
     url: about
     weight: 20
-  - name: Project
+  - name: Projects
     url: internet-access
     weight: 30
   - name: Internet Access
     url: internet-access
-    parent: Project
+    parent: Projects
     weight: 31
-  - name: Digital Literacy Skills Training
+  - name: Digital Literacy
     url: digital-literacy
-    parent: Project
+    parent: Projects
     weight: 32
   - name: IT Labs
     url: it-labs
-    parent: Project
+    parent: Projects
     weight: 33
   - name: Solar Lanterns
     url: solar-lanterns
-    parent: Project
+    parent: Projects
     weight: 34
   - name: Gallery
     url: gallery

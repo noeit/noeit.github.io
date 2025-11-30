@@ -1,24 +1,50 @@
 ---
-title: Solar lanterns to students and the aged in the communities
+title: Solar Lanterns
 date: 2025-01-04
 type: landing
 
 sections:
   - block: markdown
     content:
-      title: Solar lanterns to students and the aged in the communities
+      title: Light for Learning
       text: |
-        The remote communities in Sudan and South Sudan do not have power infrastructure such as electricity. The rural communities' rely on the torches as the main sources of lights.
+        ### The Challenge
 
-        Nobatia Organization for Emerging Information Technology, will distribute portable solar lanterns which are solar powered and do not require any cost to the beneficiaries. The target groups are primary school pupils, secondary school students and the aging population in the communities.
-        
+        Remote communities in Sudan and South Sudan lack electricity infrastructure. Families rely on torches and kerosene lamps for light—expensive, dangerous, and insufficient for studying or productive work after dark.
+
+        ### Our Solution
+
+        NOEIT distributes portable solar lanterns to community members—clean, renewable light that costs nothing to operate after the initial distribution. Solar lanterns provide reliable illumination for studying, working, and daily activities without ongoing fuel costs or fire hazards.
+
+        ### Who Benefits
+
+        Our solar lantern program prioritizes:
+
+        - **Primary School Students** — Children who need light to complete homework and study in the evening hours
+        - **Secondary School Students** — Older students preparing for exams and pursuing academic goals
+        - **Elderly Community Members** — Seniors who need reliable light for safety and daily activities
+
+        ### Why Solar
+
+        Solar lanterns align with NOEIT's commitment to sustainable, environmentally-friendly solutions:
+
+        - **Zero Operating Cost** — Charged by the sun, free to use
+        - **Environmentally Friendly** — No emissions, no fuel consumption
+        - **Safe** — No fire risk from flames or kerosene
+        - **Reliable** — Consistent light whenever needed
+        - **Durable** — Built to last in challenging conditions
+
+        ### The Impact
+
+        A simple solar lantern transforms a student's ability to learn. With light to study after dark, children can complete their education and build better futures. For elderly community members, reliable light means safety, independence, and dignity.
+
         ---
-        
-        ## Support the project
-        
-        Help us make a difference in people's lives by contributing one time donation or partner with us in this project.
-        
-        {{% cta cta_link="../contact/" cta_text="Donate →" %}}
+
+        ## Support This Project
+
+        Help us bring light to more communities. Your contribution funds solar lanterns and distribution to those who need them most.
+
+        {{% cta cta_link="../contact/" cta_text="Get Involved →" %}}
     design:
       columns: '1'
 ---

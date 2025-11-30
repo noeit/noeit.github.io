@@ -15,7 +15,7 @@ organizations:
     url: ''
 
 # Short bio
-bio: My name is Fatima, a teacher by Profession and currently working as women protection and empowerment activist. I grew up in an unfamiliar culture where girls/women are viewed as an asset in their families and communities, Marriage as a priority, education for Boys and upholding cultural norms positive or negative is of great value. Is a painful experience that other girls and women I have ever experienced though my family was slightly different and as a result I am who I am today. I felt proud of myself when I got my first bachelor's degree after many years of struggle in a childhood marriage and dropped out of school. Feeling satisfied of oneself is one movement of those where words cannot express the sensation. Today am a mother of two Kids, a girl, and a boy and sure that their lives will be 95% better than of my age mates and I those time. I believe in Change, and I have a confident enough to make Change in the lives of those who will need Change. I believe in Gender Equality as the beginning of Change in every society.
+bio: Fatima is a teacher by profession and women's protection and empowerment activist. Having overcome the challenges of childhood marriage to earn her bachelor's degree, she brings lived experience to her advocacy work. As Director of Education and Planning at NOEIT, Fatima is dedicated to creating opportunities for girls and women who face similar barriers. A mother of two, she believes deeply that gender equality is the foundation of meaningful change in every society, and works to ensure the next generation has access to the education and opportunities they deserve.
 
 # Social/Academic Networking
 social: []
