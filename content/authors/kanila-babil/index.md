@@ -17,7 +17,7 @@ organizations:
     url: ''
 
 # Short bio
-bio: I hold a bachelor degree in economics at the Catholic University South Sudan, currently working as an intern with Catholic Relief (CRS) in the department of supply chain management under procurement and logistics. I am experienced and a dedicated professional with aspect of supply chain management including purchasing, planning, scheduling and storage.
+bio: Kanila holds a bachelor's degree in Economics from the Catholic University of South Sudan. She currently works with Catholic Relief Services (CRS) in supply chain management, specializing in procurement and logistics. As Director of Operations at NOEIT, she brings expertise in purchasing, planning, scheduling, and inventory management to ensure the organization's projects are executed efficiently and effectively.
 
 # Social/Academic Networking
 social: []

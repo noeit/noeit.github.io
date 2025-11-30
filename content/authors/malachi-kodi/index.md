@@ -17,7 +17,7 @@ organizations:
     url: ''
 
 # Short bio
-bio: I serve as an admin and lecturer at Theological Bible Institute and my visions for Nobatia Organization for Emerging Information Technology are - 1. Self-reliance through self learning, connecting community for the purpose of peace building among the communities, 2. Fighting modern illiteracy, 3. Raising capabilities in the field of scientific research for individual and institution especially teachers and entrepreneurs.
+bio: Dr. Malachi Kodi serves as an administrator and lecturer at Theological Bible Institute. As Director of Community Relations at NOEIT, he brings a vision centered on self-reliance through self-learning, community connection for peace building, combating modern illiteracy, and advancing scientific research capabilities for individuals and institutions—particularly teachers and entrepreneurs.
 
 # Social/Academic Networking
 social: []

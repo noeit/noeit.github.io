@@ -20,7 +20,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Chris Hillis is a co-founder of Nobatia Organization for Emerging Information Technology, and ITDRC chief architect of the organization's systems and strategies. His work at ITDRC combines his passion for technology and formal education in emergency management, helping to facilitate speedy response and recovery for those affected by disaster in a world that is highly dependent on technology. Chris holds a BS in Emergency Administration and Disaster Planning from the University of North Texas, and a number of industry credentials in emergency management, networking, and SIP technologies. He has received a number of accolades for his work in disaster relief, most recently, Cambium's "Connectivity Hero" award.
+bio: Chris is Co-Founder of NOEIT and serves as Chief Architect at ITDRC, where he designs systems and strategies that combine his passion for technology with his expertise in emergency management. His work facilitates rapid response and recovery for communities affected by disaster in an increasingly technology-dependent world. Chris holds a BS in Emergency Administration and Disaster Planning from the University of North Texas, along with industry credentials in emergency management, networking, and SIP technologies. He has received numerous accolades for his disaster relief work, including Cambium's "Connectivity Hero" award.
 
 # Social/Academic Networking
 social: []

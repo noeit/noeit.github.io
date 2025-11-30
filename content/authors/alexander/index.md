@@ -21,7 +21,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: An information communication technology enthusiast. He serves as an ICT officer for Samaritan's purse International relief. Alexander is also the founder and Technical Project Director of Nobatia Organization for Emerging Information Technology which he continues to run in addition to his full-time position, formed for the purpose of delivering free, affordable, reliable and secure internet access to the survivors of civil wars in South Sudan and Sudan. Alexander is driven by commitment to ensure internet access in the rural areas of South Sudan and Sudan, as well as access to information which he sees as a powerful tool. Alexander is committed to community lead solutions, social, economic independent and is an aspiring social activist.
+bio: Alexander is an information and communication technology professional serving as an ICT Officer for Samaritan's Purse International Relief. As Founder and Technical Project Director of NOEIT, he leads the organization's mission to deliver free, affordable, reliable, and secure internet access to communities affected by civil wars in South Sudan and Sudan. Driven by a deep commitment to ensuring rural communities have access to information—which he sees as a powerful tool for transformation—Alexander champions community-led solutions and advocates for social and economic independence across the region.
 
 # Social/Academic Networking
 social: []

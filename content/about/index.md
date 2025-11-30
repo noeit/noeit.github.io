@@ -6,17 +6,19 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: About us
+      title: About NOEIT
       text: |
-        Nobatia Organization for Emerging Information Technology (NOEIT) is community based, non-governmental organization founded in 2021. Registered with Sudan Relief Rehabilitation Agency (SRRA) in Sudan and subsequently registered with Relief Rehabilitation Commission (RRC) in South Sudan.
+        **Nobatia Organization for Emerging Information Technology (NOEIT)** is a community-based, non-governmental organization founded in 2021. We are officially registered with the Sudan Relief Rehabilitation Agency (SRRA) in Sudan and the Relief Rehabilitation Commission (RRC) in South Sudan.
+
+        NOEIT is mandated to operate across all ten states of South Sudan and throughout African countries, working to bridge the digital divide in some of the world's most underserved communities.
     design:
       columns: '1'
 
   - block: markdown
     content:
-      title: Our mission
+      title: Our Mission
       text: |
-        The organization exists to deliver digital literacy skills trainings, free, affordable reliable secure internet access to connect the unconnected communities in Sudan and south Sudan.
+        To deliver digital literacy skills training and provide free, affordable, reliable, and secure internet access to connect the unconnected communities in Sudan and South Sudan.
     design:
       columns: '1'
       background:
@@ -24,9 +26,35 @@ sections:
 
   - block: markdown
     content:
-      title: Our vision
+      title: Our Vision
       text: |
-        We aim to build vibrant communities by connecting the unconnected communities with internet and digital literacy skills.
+        To build vibrant, empowered communities by connecting them with internet access and digital literacy skills—opening doors to education, opportunity, and global participation.
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: Our Purpose
+      text: |
+        To strategically invest in quality digital literacy skills and build vibrant communities by connecting the unconnected with internet access and digital education—bringing together resources to reach the most vulnerable girls and boys.
+    design:
+      columns: '1'
+      background:
+        color: '#f5f5f5'
+
+  - block: markdown
+    content:
+      title: Our Objectives
+      text: |
+        1. **Connect Communities** — Provide internet access, computer labs, digital literacy training, and solar lamps to students and the elderly in remote areas.
+
+        2. **Promote STEM Education** — Support policies that advance girls' and boys' education in Science, Technology, Engineering, and Mathematics (STEM).
+
+        3. **Build Social Cohesion** — Foster community connections through shared access to technology and the global internet.
+
+        4. **Provide IT Consultancy** — Deliver reliable, secure, and accessible technology solutions to individuals and institutions.
+
+        5. **Champion Green Energy** — Promote environmentally-friendly solar power solutions for sustainable development.
     design:
       columns: '1'
 
@@ -34,50 +62,17 @@ sections:
     content:
       title: Our Principles
       text: |
-        (NOEIT) subscribes to, and draws its mandate and authority from the following principles:
+        NOEIT is guided by these core values:
 
-        - a) Self-reliance;
-        - b) Collaboration;
-        - c) Partnerships;
-        - d) Innovation;
-        - e) Research;
-        - f) Inclusion;
-        - g) Respect;
-        - h) Tolerance;
-        - i) Capacity building;
-        - j) Credibility;
-        - k) Accountability;
-        - l) Effectiveness and efficiency
+        **Self-Reliance** · **Collaboration** · **Partnership** · **Innovation** · **Research** · **Inclusion** · **Respect** · **Tolerance** · **Capacity Building** · **Credibility** · **Accountability** · **Effectiveness & Efficiency**
     design:
       columns: '1'
       background:
         color: '#f5f5f5'
 
-  - block: markdown
-    content:
-      title: Our promise
-      text: |
-        Our promise is to connect the unconnected with internet access, IT labs, digital literacy skills trainings, provisions of solar lanterns the students, the aged in the remote communities in Sudan and South Sudan
-
-        NOEIT is mandated to operate in all the ten states of South Sudan and in all African countries.
-
-        ## PURPOSE
-
-        To strategically invest in quality digital literacy skills and building vibrant communities by connecting unconnected communities with internet access and digital education by bringing together resources to reach the most vulnerable girls and boys.
-
-        ## OBJECTIVES
-
-        1. To connect unconnected communities with internet access, computer lab, digital literacy skills and distribution of solar lamps to the students and the aged in the society.
-        2. Promotes policies that supports girls and boys education in Science technical engineering and mathematics (STEM) courses in schools at States and in the country
-        3. Promotes social cohesion through connecting unconnected communities with internet access in the country and globally.
-        4. Provide information technology consultancy, to individuals, institutions to ensure, reliability, security, accessibility and availability
-        5. Promote green energy, by encouraging people to use solar system which is environmental friendly
-    design:
-      columns: '1'
-
   - block: people
     content:
-      title: Meet The Team Behind The Project
+      title: Meet the Team
       user_groups:
           - Founders
           - Board of Directors
@@ -87,6 +82,4 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-      background:
-        color: '#f5f5f5'
 ---
