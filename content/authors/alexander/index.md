@@ -34,3 +34,7 @@ user_groups:
   - Founders
 ---
 
+Alexander is an information and communication technology professional serving as an ICT Officer for Samaritan's Purse International Relief. As Founder and Technical Project Director of NOEIT, he leads the organization's mission to deliver free, affordable, reliable, and secure internet access to communities affected by civil wars in South Sudan and Sudan.
+
+Driven by a deep commitment to ensuring rural communities have access to information—which he sees as a powerful tool for transformation—Alexander champions community-led solutions and advocates for social and economic independence across the region.
+

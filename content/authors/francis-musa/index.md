@@ -25,3 +25,5 @@ user_groups:
   - Board of Directors
 ---
 
+Francis serves as Director of Information and Communication Technology at NOEIT, overseeing the technical implementation of connectivity projects and IT infrastructure development across Sudan and South Sudan.
+
