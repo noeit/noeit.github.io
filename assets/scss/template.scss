@@ -23,8 +23,59 @@
 body[class*="authors"] .article-metadata,
 body[class*="authors"] .page-header .article-metadata,
 body[class*="authors"] time,
-body[class*="authors"] .post-metadata {
+body[class*="authors"] .post-metadata,
+body[class*="authors"] .article-date,
+body[class*="authors"] .page-subtitle,
+body[class*="authors"] .article-header .article-date,
+body[class*="authors"] .hb-docs-date,
+body[class*="authors"] .docs-date,
+body[class*="authors"] .page-header time,
+body[class*="authors"] header time,
+body[class*="authors"] .meta,
+body[class*="authors"] .pub-date {
   display: none !important;
+}
+
+// Ensure author profile with photo shows on individual pages
+body[class*="authors"] .profile-header,
+body[class*="authors"] .author-profile,
+body[class*="authors"] .wg-about-avatar {
+  display: block !important;
+}
+
+// Style the author profile on individual pages
+body[class*="authors"] .page-body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+// Add profile image to author pages if using page-body content
+body[class*="authors"] .article-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+// Style the author avatar image in page content
+.author-avatar {
+  float: left;
+  margin: 0 30px 20px 0;
+
+  img {
+    width: 180px !important;
+    height: 180px !important;
+    border-radius: 50%;
+    border: 4px solid #4CAF50;
+    object-fit: cover;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+  }
+}
+
+// Clear float after bio text on author pages
+body[class*="authors"] .page-body::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 // Make the author card the main focus on author pages only
