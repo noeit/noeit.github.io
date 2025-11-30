@@ -19,13 +19,11 @@
   display: none !important;
 }
 
-// ONLY hide main content on author profile pages (not all pages!)
-// Target only pages in /authors/ directory
-body[class*="authors"] .article-header,
-body[class*="authors"] .page-body,
-body[class*="authors"] .page-header,
-body[class*="authors"] .article-title,
-body[class*="authors"] .article-metadata {
+// Hide date/metadata on author profile pages but show bio content
+body[class*="authors"] .article-metadata,
+body[class*="authors"] .page-header .article-metadata,
+body[class*="authors"] time,
+body[class*="authors"] .post-metadata {
   display: none !important;
 }
 
