@@ -27,5 +27,7 @@ user_groups:
   - Board of Directors
 ---
 
+{{< figure src="avatar.jpg" class="author-avatar" >}}
+
 Dr. Malachi Kodi serves as an administrator and lecturer at Theological Bible Institute. As Director of Community Relations at NOEIT, he brings a vision centered on self-reliance through self-learning, community connection for peace building, combating modern illiteracy, and advancing scientific research capabilities for individuals and institutions—particularly teachers and entrepreneurs.
 
