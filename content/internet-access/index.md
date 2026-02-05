@@ -71,9 +71,23 @@ sections:
 
   - block: markdown
     content:
-      title: Explore Our Other Projects
+      title:
       text: |
-        [Digital Literacy Training](../digital-literacy/) · [IT Labs](../it-labs/) · [Solar Lanterns](../solar-lanterns/)
+        <div style="text-align: center; padding: 20px 0;">
+
+        **Explore Our Other Projects:** [Digital Literacy Training](../digital-literacy/) · [IT Labs](../it-labs/) · [Solar Lanterns](../solar-lanterns/)
+
+        ---
+
+        **Quick Links:** [Home](../) · [About Us](../about/) · [Gallery](../gallery/) · [Contact](../contact/)
+
+        ---
+
+        **NOEIT** · Nuba Mountains, Sudan · [info@nobatia.org](mailto:info@nobatia.org) · [+211 928 882 124](tel:+211928882124)
+
+        *Registered with Sudan Relief Rehabilitation Agency (SRRA) and Relief Rehabilitation Commission (RRC)*
+
+        </div>
     design:
       columns: '1'
 ---

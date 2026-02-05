@@ -58,7 +58,7 @@ sections:
     content:
       title: Our Region
       text: |
-        NOEIT is headquartered in the Nuba Mountains of Sudan and operates across both Sudan and South Sudan, with activities in all ten states of South Sudan.
+        NOEIT is headquartered in the Nuba Mountains of Sudan and operates across both Sudan and South Sudan.
 
         <div style="border-radius: 10px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin: 20px 0;">
         <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=28.0%2C8.0%2C34.0%2C14.0&amp;layer=mapnik&amp;marker=11.0%2C30.0" style="border: 0;"></iframe>
@@ -115,4 +115,22 @@ sections:
       columns: '1'
       background:
         color: '#f5f5f5'
+
+  - block: markdown
+    content:
+      title:
+      text: |
+        <div style="text-align: center; padding: 20px 0;">
+
+        **Quick Links:** [Home](../) · [About Us](../about/) · [Internet Access](../internet-access/) · [Digital Literacy](../digital-literacy/) · [IT Labs](../it-labs/) · [Solar Lanterns](../solar-lanterns/) · [Gallery](../gallery/)
+
+        ---
+
+        **NOEIT** · Nuba Mountains, Sudan · [info@nobatia.org](mailto:info@nobatia.org) · [+211 928 882 124](tel:+211928882124)
+
+        *Registered with Sudan Relief Rehabilitation Agency (SRRA) and Relief Rehabilitation Commission (RRC)*
+
+        </div>
+    design:
+      columns: '1'
 ---
