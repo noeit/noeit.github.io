@@ -39,9 +39,10 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2025 Nobatia Organization for Emerging Information Technology (NOEIT). Registered with SRRA (Sudan) and RRC (South Sudan). Contact: info@nobatia.org'
+    notice: '© 2026 Nobatia Organization for Emerging Information Technology (NOEIT). Registered with SRRA (Sudan) and RRC (South Sudan). Contact: info@nobatia.org'
     license:
       enable: false
+  show_attribution: false
 
 # Localization
 locale:
