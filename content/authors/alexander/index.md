@@ -9,6 +9,10 @@ last_name: Tarjan
 # Is this the primary user of the site?
 superuser: false
 
+# Hide date and reading time
+show_date: false
+reading_time: false
+
 # Role/position
 role: Founder and Technical Project Director
 

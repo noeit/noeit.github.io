@@ -6,6 +6,10 @@ title: Kodi Stephen
 first_name: Kodi
 last_name: Stephen
 
+# Hide date and reading time
+show_date: false
+reading_time: false
+
 # Role/position
 role: Director of Finance
 

@@ -6,6 +6,10 @@ title: Fatima Abdulkarim
 first_name: Fatima
 last_name: Abdulkarim
 
+# Hide date and reading time
+show_date: false
+reading_time: false
+
 # Role/position
 role: Director of Education and Planning
 

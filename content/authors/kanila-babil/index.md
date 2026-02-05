@@ -6,6 +6,10 @@ title: Kanila Babil
 first_name: Kanila
 last_name: Babil
 
+# Hide date and reading time
+show_date: false
+reading_time: false
+
 # Role/position
 role: Director of Operations
 

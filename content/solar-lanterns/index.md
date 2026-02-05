@@ -77,26 +77,4 @@ sections:
         {{% cta cta_link="../contact/" cta_text="Get Involved →" %}}
     design:
       columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      text: |
-        <div style="text-align: center; padding: 20px 0;">
-
-        **Explore Our Other Projects:** [Internet Access](../internet-access/) · [Digital Literacy Training](../digital-literacy/) · [IT Labs](../it-labs/)
-
-        ---
-
-        **Quick Links:** [Home](../) · [About Us](../about/) · [Gallery](../gallery/) · [Contact](../contact/)
-
-        ---
-
-        **NOEIT** · Nuba Mountains, Sudan · [info@nobatia.org](mailto:info@nobatia.org) · [+211 928 882 124](tel:+211928882124)
-
-        *Registered with Sudan Relief Rehabilitation Agency (SRRA) and Relief Rehabilitation Commission (RRC)*
-
-        </div>
-    design:
-      columns: '1'
 ---
