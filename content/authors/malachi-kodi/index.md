@@ -6,6 +6,10 @@ title: Dr. Malachi Kodi
 first_name: Malachi
 last_name: Kodi
 
+# Hide date and reading time
+show_date: false
+reading_time: false
+
 # Role/position
 role: Director of Community Relations
 

@@ -6,6 +6,10 @@ title: Chris Hillis
 first_name: Chris
 last_name: Hillis
 
+# Hide date and reading time
+show_date: false
+reading_time: false
+
 # Role/position
 role: Co-Founder
 

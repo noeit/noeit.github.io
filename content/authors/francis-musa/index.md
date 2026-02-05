@@ -6,6 +6,10 @@ title: Francis Musa
 first_name: Francis
 last_name: Musa
 
+# Hide date and reading time
+show_date: false
+reading_time: false
+
 # Role/position
 role: Director of ICT
 
