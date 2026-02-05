@@ -1,5 +1,15 @@
 // Custom CSS for Nobatia site
 
+// Hide Hugo Blox Builder attribution in footer
+footer .powered-by,
+footer .site-footer .powered-by,
+.powered-by,
+footer p:last-child a[href*="hugoblox"],
+footer p:last-child a[href*="wowchemy"],
+footer .container p:last-of-type {
+  display: none !important;
+}
+
 // Fix upside down hero image
 .hero-media img,
 .block-hero .hero-media img {
