@@ -4,6 +4,16 @@ date: 2025-01-04
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title:
+      text: |
+        <div style="text-align: center; padding: 40px 20px 20px 20px;">
+        <img src="/media/logo-full.png" alt="NOEIT Logo" style="max-width: 400px; width: 100%; height: auto;">
+        </div>
+    design:
+      columns: '1'
+
   - block: hero
     content:
       title: |

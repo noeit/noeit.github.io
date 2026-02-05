@@ -32,7 +32,29 @@ body[class*="authors"] .docs-date,
 body[class*="authors"] .page-header time,
 body[class*="authors"] header time,
 body[class*="authors"] .meta,
-body[class*="authors"] .pub-date {
+body[class*="authors"] .pub-date,
+body[class*="authors"] .date,
+body[class*="authors"] .entry-date,
+body[class*="authors"] .posted-on,
+body[class*="authors"] .published,
+body[class*="authors"] .reading-time,
+body[class*="authors"] .last-updated,
+body[class*="authors"] [datetime],
+body[class*="authors"] .hb-article-date,
+body[class*="authors"] .article-header-caption,
+body[class*="authors"] .page-header small,
+body[class*="authors"] .text-muted,
+body[class*="authors"] .article-header .text-muted {
+  display: none !important;
+}
+
+// Also target Hugo Blox specific date display elements
+.hb-author time,
+.hb-author .text-muted,
+.profile time,
+.profile .text-muted,
+[class*="author"] .text-muted:has(time),
+[class*="author"] small:has(time) {
   display: none !important;
 }
 
