@@ -253,5 +253,46 @@ footer {
   border: 3px solid #4CAF50;
 }
 
-// Remove the image rotation if it's not needed
-// Just delete or comment out the first rule if images are correct
+// Custom footer content styling
+.site-footer {
+  .footer-links {
+    margin-bottom: 20px;
+
+    a {
+      margin: 0 15px;
+      font-weight: 500;
+    }
+  }
+
+  .footer-info {
+    font-size: 0.9rem;
+    opacity: 0.9;
+  }
+}
+
+// Contact page styling
+.contact-info-card {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  margin-bottom: 30px;
+
+  h3 {
+    color: #4CAF50;
+    margin-bottom: 15px;
+  }
+}
+
+// Project page header styling
+.project-header {
+  background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+  padding: 40px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  text-align: center;
+
+  h1 {
+    color: #2E7D32;
+  }
+}
