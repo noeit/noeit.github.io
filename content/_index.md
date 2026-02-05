@@ -6,14 +6,14 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Connecting Communities
-        Through Technology
+      title:
       image:
         filename: hero-slides.jpg
 
       text: |
-        <img src="/media/logo-full.png" alt="NOEIT Logo" style="max-width: 280px; margin-bottom: 20px; display: block;">
+        <img src="/media/logo-full.png" alt="NOEIT - Nobatia Organization for Emerging Information Technology" style="max-width: 320px; margin-bottom: 15px; display: block;">
+
+        *Connecting Communities Through Technology*
 
         **NOEIT** (Nobatia Organization for Emerging Information Technology) is a community-based NGO founded in 2021, working across Sudan and South Sudan to bridge the digital divide. We provide internet access, digital literacy training, IT labs, and solar lanterns to remote communities—empowering students, teachers, entrepreneurs, and innovators.
 
